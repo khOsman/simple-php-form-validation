@@ -32,7 +32,7 @@
 		//close the file
 		fclose($file);
 
-		echo "Your data is saved - Thanks";
+		echo "<p>Your data is saved - Thanks</p>";
 		echo "<p>First Name - $fName </p>";
 		echo "<p>Last Name - $lName </p>" ;
 		echo "<p>Your Email -  $email</p>";

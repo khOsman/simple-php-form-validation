@@ -1,16 +1,15 @@
+body{
+	background:#f9ca24;
+}
+
 .formWrapper{
 	margin-top:240px;
 	margin-left: 470px;
 	margin-right: 460px;
 	padding-left: 250px;
-	color: #273c75;
+	color: white;
 	border: dotted #273c75 2px;
 
-}
-
-.formWrapper h1 , h3{
-
-	color: #0097e6;
 }
 
 form{
